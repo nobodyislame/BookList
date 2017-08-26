@@ -1,9 +1,9 @@
 export default ()=>{
   return [
-    {title : 'Javascript The Good Parts'},
-    {title : 'Eloquent Javascript'},
-    {title : 'Midnight Madness'},
-    {title : 'Harry Potter'},
-    {title : 'Algorithms'}
+    {title : 'Javascript The Good Parts', pages : 109},
+    {title : 'Eloquent Javascript', pages : 17},
+    {title : 'Midnight Madness', pages : 67},
+    {title : 'Harry Potter', pages : 90},
+    {title : 'Algorithms', pages : 10}
   ];
 }
